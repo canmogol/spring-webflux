@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.canmogol</groupId>
-	<artifactId>WebFlux</artifactId>
+	<artifactId>webflux</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>WebFlux</name>
-	<description>WebFlux library related examples</description>
+	<name>webflux</name>
+	<description>webflux library related examples</description>
 	<properties>
 		<java.version>11</java.version>
 		<repackage.classifier/>
